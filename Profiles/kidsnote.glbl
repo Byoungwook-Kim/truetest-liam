@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'kdni01'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'111111'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://www.kidsnote.com'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>kidsnote</name>
+    <tag></tag>
+</GlobalVariableEntities>

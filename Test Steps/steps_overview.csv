@@ -1,0 +1,22 @@
+Flow ID,Description,Test Steps,Flow Priority
+2,Verify page Service Report is displayed,"step 1: Navigate to Page service report
+step 2: Add visual checkpoint at Page service report",High
+8,Verify page Service Attendance is displayed,"step 1: Navigate to Page service attendance
+step 2: Add visual checkpoint at Page service attendance",Medium
+10,Verify page Service Medication is displayed,"step 1: Navigate to Page service medication
+step 2: Add visual checkpoint at Page service medication",Medium
+4,Verify page Service Album is displayed,"step 1: Navigate to Page service album
+step 2: Add visual checkpoint at Page service album",Trivial
+6,Verify page Service Notice is displayed,"step 1: Navigate to Page service notice
+step 2: Add visual checkpoint at Page service notice",Trivial
+1,Verify successful login to page En,"step 1: Navigate to Page en
+step 2: Login at Page en --> navigate to Page en login
+step 3: Add visual checkpoint at Page en login",Trivial
+3,Verify page Service Home is displayed,"step 1: Navigate to Page service home
+step 2: Add visual checkpoint at Page service home",Trivial
+5,Verify page Service Safe Ride is displayed,"step 1: Navigate to Page service safe-ride
+step 2: Add visual checkpoint at Page service safe-ride",Trivial
+9,Verify page Service Return Home is displayed,"step 1: Navigate to Page service return-home
+step 2: Add visual checkpoint at Page service return-home",Trivial
+7,Verify page Service Schedule is displayed,"step 1: Navigate to Page service schedule
+step 2: Add visual checkpoint at Page service schedule",Trivial
